@@ -4,7 +4,7 @@ Welcome to the Wireless Sound Control System using Camera! This system allows yo
 ## Prerequisites
 To use this system, you will need:
 
-A computer with a camera and audio output
+- A computer with a camera and audio output
 
 ## Usage
 
