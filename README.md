@@ -1,7 +1,7 @@
 # wireless_sound_control
 Welcome to the Wireless Sound Control System using Camera! This system allows you to control the volume of your computer's audio using hand gestures captured by a camera.
 
-##Prerequisites
+## Prerequisites
 To use this system, you will need:
 ```
 A computer with a camera and audio output
